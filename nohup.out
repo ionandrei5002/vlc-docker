@@ -1,0 +1,7 @@
+[0000558bdc793420] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-andrei'
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+[0000558bdc797390] main playlist: playlist is empty
+Non-native QFileDialog supports only local files
+Non-native QFileDialog supports only local files
